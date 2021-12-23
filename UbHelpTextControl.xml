@@ -1,37 +1,25 @@
 <Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<Version>1.0</Version>
+	<UbStudyHelpVersion>2.0.0</UbStudyHelpVersion>
 	<Translation>
 		<LanguageID>0</LanguageID>
 		<Description>English 2009</Description>
 		<TUB>The Urantia Book</TUB>
 		<TIN>UF-ENG-001World-2009-0.22.SRT</TIN>
-		<TextButton>en   </TextButton>
-		<StartingYear>2013</StartingYear>
-		<EndingYear>2013</EndingYear>
 		<PaperTranslation>Paper</PaperTranslation>
-		<ExternalName xsi:nil="true"/>
-		<Notes>Larry Watkins 2014</Notes>
-		<IsTranslation>0</IsTranslation>
 		<UseBold>0</UseBold>
 		<RightToLeft>0</RightToLeft>
-		<dateofLastModification>2013-07-24T00:00:00</dateofLastModification>
 		<CultureID>1033</CultureID>
+		<UbVersion>1.0.0</UbVersion>
 	</Translation>
 	<Translation>
 		<LanguageID>34</LanguageID>
 		<Description>Portuguese 2007</Description>
 		<TUB>O livro de Urântia</TUB>
 		<TIN>UF-POR-001World-2007-1.12</TIN>
-		<TextButton>pt-br</TextButton>
-		<StartingYear>2013</StartingYear>
-		<EndingYear>2013</EndingYear>
 		<PaperTranslation>Documento</PaperTranslation>
-		<ExternalName xsi:nil="true"/>
-		<Notes>Larry Watkins 2014</Notes>
-		<IsTranslation>0</IsTranslation>
 		<UseBold>0</UseBold>
 		<RightToLeft>0</RightToLeft>
-		<dateofLastModification>2013-07-24T00:00:00</dateofLastModification>
 		<CultureID>1046</CultureID>
+		<UbVersion>1.0.0</UbVersion>
 	</Translation>
 </Translations>
