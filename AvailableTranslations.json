@@ -267,6 +267,20 @@
 			"PaperTranslation": "Documento"
 		},
 		{
+			"LanguageID": 144,
+			"Description": "Spanish Escobar",
+			"Version": 1,
+			"TIN": "",
+			"TUB": "Los Escritos de Urantia",
+			"TextButton": "es   ",
+			"CultureID": 3082,
+			"UseBold": false,
+			"RightToLeft": false,
+			"StartingYear": 2013,
+			"EndingYear": 2022,
+			"PaperTranslation": "Documento"
+		},
+		{
 			"LanguageID": 7,
 			"Description": "Spanish European 2009",
 			"Version": 1,
