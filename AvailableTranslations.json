@@ -208,7 +208,8 @@
 			"RightToLeft": false,
 			"StartingYear": 2013,
 			"EndingYear": 2013,
-			"PaperTranslation": "Documento"
+			"PaperTranslation": "Documento",
+			"IsEditingTranslation": true
 		},
 		{
 			"LanguageID": 109,
