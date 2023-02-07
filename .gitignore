@@ -351,3 +351,5 @@ MigrationBackup/
 
 # Json files not zipped
 TR*.json
+!AvailableTranslations.json
+
