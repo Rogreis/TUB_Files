@@ -15,7 +15,8 @@
       "PaperTranslation": "\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442",
       "IsEditingTranslation": false,
       "Hash": "0832d89287a5d8e8a7e0eeb09e4a8434",
-      "RepositoryName": ""
+      "RepositoryName": "",
+      "Papers": []
     },
     {
       "LanguageID": 31,
@@ -32,7 +33,8 @@
       "PaperTranslation": "Verhandeling",
       "IsEditingTranslation": false,
       "Hash": "02f3284c73a6d4b10352d35ae1326495",
-      "RepositoryName": ""
+      "RepositoryName": "",
+      "Papers": []
     },
     {
       "LanguageID": 0,
@@ -49,7 +51,8 @@
       "PaperTranslation": "Paper",
       "IsEditingTranslation": false,
       "Hash": "201fe1a0605a431997305f685030b320",
-      "RepositoryName": ""
+      "RepositoryName": "",
+      "Papers": []
     },
     {
       "LanguageID": 67,
@@ -66,7 +69,8 @@
       "PaperTranslation": "Kiri",
       "IsEditingTranslation": false,
       "Hash": "bf631641d79962f5eac55e3f2ec4a102",
-      "RepositoryName": ""
+      "RepositoryName": "",
+      "Papers": []
     },
     {
       "LanguageID": 27,
@@ -83,7 +87,8 @@
       "PaperTranslation": "LUKU",
       "IsEditingTranslation": false,
       "Hash": "ba1241fb8c2610e5d5483834202a0d79",
-      "RepositoryName": ""
+      "RepositoryName": "",
+      "Papers": []
     },
     {
       "LanguageID": 44,
@@ -100,7 +105,8 @@
       "PaperTranslation": "Fascicule",
       "IsEditingTranslation": false,
       "Hash": "8b5cd8fc312b3a8cfa4e6aa541648c4b",
-      "RepositoryName": ""
+      "RepositoryName": "",
+      "Papers": []
     },
     {
       "LanguageID": 25,
@@ -117,7 +123,8 @@
       "PaperTranslation": "Schrift",
       "IsEditingTranslation": false,
       "Hash": "7d09c00c39e2504f305879f4b496ffef",
-      "RepositoryName": ""
+      "RepositoryName": "",
+      "Papers": []
     },
     {
       "LanguageID": 108,
@@ -134,7 +141,8 @@
       "PaperTranslation": "\u0395\u0393\u0393\u03A1\u0391\u03A6\u039F",
       "IsEditingTranslation": false,
       "Hash": "7de0ec44ef43bd6f3d5e45c50643410f",
-      "RepositoryName": ""
+      "RepositoryName": "",
+      "Papers": []
     },
     {
       "LanguageID": 53,
@@ -151,7 +159,8 @@
       "PaperTranslation": "\u00EDr\u00E1s",
       "IsEditingTranslation": false,
       "Hash": "28a43460e54415e39dfe3a5d1bcdb1fd",
-      "RepositoryName": ""
+      "RepositoryName": "",
+      "Papers": []
     },
     {
       "LanguageID": 29,
@@ -168,7 +177,8 @@
       "PaperTranslation": "Fascicolo",
       "IsEditingTranslation": false,
       "Hash": "d2d2aed6d6999a88f1a1183a5b4671ef",
-      "RepositoryName": ""
+      "RepositoryName": "",
+      "Papers": []
     },
     {
       "LanguageID": 83,
@@ -185,7 +195,8 @@
       "PaperTranslation": "\uBB38\uC11C",
       "IsEditingTranslation": false,
       "Hash": "4845b6fb4deca87e02461b7b3b38ae3f",
-      "RepositoryName": ""
+      "RepositoryName": "",
+      "Papers": []
     },
     {
       "LanguageID": 30,
@@ -202,7 +213,8 @@
       "PaperTranslation": "Dokumentas",
       "IsEditingTranslation": false,
       "Hash": "05f3643eeb68bea97545fdad32b8b112",
-      "RepositoryName": ""
+      "RepositoryName": "",
+      "Papers": []
     },
     {
       "LanguageID": 37,
@@ -219,7 +231,8 @@
       "PaperTranslation": "Przekaz",
       "IsEditingTranslation": false,
       "Hash": "0452cfde4a64dacc114e71e9c618fec1",
-      "RepositoryName": ""
+      "RepositoryName": "",
+      "Papers": []
     },
     {
       "LanguageID": 34,
@@ -236,7 +249,8 @@
       "PaperTranslation": "Documento",
       "IsEditingTranslation": false,
       "Hash": "0598bd33f50065af76cbce4f89ac6362",
-      "RepositoryName": ""
+      "RepositoryName": "",
+      "Papers": []
     },
     {
       "LanguageID": 2,
@@ -252,8 +266,9 @@
       "EndingYear": 2023,
       "PaperTranslation": "Documento",
       "IsEditingTranslation": true,
-      "Hash": "f713b26bb55bd116ff1a67c25f19ed32",
-      "RepositoryName": "PtAlternative"
+      "Hash": "d663a5fe1337a76cc2d47a1bbdb474da",
+      "RepositoryName": "PtAlternative",
+      "Papers": []
     },
     {
       "LanguageID": 109,
@@ -270,7 +285,8 @@
       "PaperTranslation": "Capitolul",
       "IsEditingTranslation": false,
       "Hash": "cf1171fa5145836357ae7889365c8676",
-      "RepositoryName": ""
+      "RepositoryName": "",
+      "Papers": []
     },
     {
       "LanguageID": 32,
@@ -287,7 +303,8 @@
       "PaperTranslation": "\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442",
       "IsEditingTranslation": false,
       "Hash": "f4bc3ed9efc8864c5c5e651ea9ab9dd8",
-      "RepositoryName": ""
+      "RepositoryName": "",
+      "Papers": []
     },
     {
       "LanguageID": 143,
@@ -304,7 +321,8 @@
       "PaperTranslation": "Documento",
       "IsEditingTranslation": false,
       "Hash": "8a45d812bf7a7e60933b003da39dcc96",
-      "RepositoryName": ""
+      "RepositoryName": "",
+      "Papers": []
     },
     {
       "LanguageID": 33,
@@ -321,7 +339,8 @@
       "PaperTranslation": "Documento",
       "IsEditingTranslation": false,
       "Hash": "1bde150d0c208fb0e6c7dc25e04f27f9",
-      "RepositoryName": ""
+      "RepositoryName": "",
+      "Papers": []
     },
     {
       "LanguageID": 144,
@@ -338,7 +357,8 @@
       "PaperTranslation": "Documento",
       "IsEditingTranslation": false,
       "Hash": "e9e3ce2627178d84b3c25252c5e6808e",
-      "RepositoryName": ""
+      "RepositoryName": "",
+      "Papers": []
     },
     {
       "LanguageID": 7,
@@ -355,7 +375,8 @@
       "PaperTranslation": "Documento",
       "IsEditingTranslation": false,
       "Hash": "eb04e4e031b05f7a0c6af4314f08f51f",
-      "RepositoryName": ""
+      "RepositoryName": "",
+      "Papers": []
     },
     {
       "LanguageID": 68,
@@ -372,7 +393,8 @@
       "PaperTranslation": "Kapitel",
       "IsEditingTranslation": false,
       "Hash": "78288f3361b8dc401b728f521d62a30d",
-      "RepositoryName": ""
+      "RepositoryName": "",
+      "Papers": []
     }
   ]
 }
