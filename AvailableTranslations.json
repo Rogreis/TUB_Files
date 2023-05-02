@@ -14,7 +14,8 @@
       "EndingYear": 2013,
       "PaperTranslation": "\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442",
       "IsEditingTranslation": false,
-      "Hash": "0832d89287a5d8e8a7e0eeb09e4a8434"
+      "Hash": "0832d89287a5d8e8a7e0eeb09e4a8434",
+      "RepositoryName": ""
     },
     {
       "LanguageID": 31,
@@ -30,7 +31,8 @@
       "EndingYear": 2013,
       "PaperTranslation": "Verhandeling",
       "IsEditingTranslation": false,
-      "Hash": "02f3284c73a6d4b10352d35ae1326495"
+      "Hash": "02f3284c73a6d4b10352d35ae1326495",
+      "RepositoryName": ""
     },
     {
       "LanguageID": 0,
@@ -46,7 +48,8 @@
       "EndingYear": 2013,
       "PaperTranslation": "Paper",
       "IsEditingTranslation": false,
-      "Hash": "9f3b9484b087d4222e265d8bf2b105b1"
+      "Hash": "201fe1a0605a431997305f685030b320",
+      "RepositoryName": ""
     },
     {
       "LanguageID": 67,
@@ -62,7 +65,8 @@
       "EndingYear": 2013,
       "PaperTranslation": "Kiri",
       "IsEditingTranslation": false,
-      "Hash": "bf631641d79962f5eac55e3f2ec4a102"
+      "Hash": "bf631641d79962f5eac55e3f2ec4a102",
+      "RepositoryName": ""
     },
     {
       "LanguageID": 27,
@@ -78,7 +82,8 @@
       "EndingYear": 2013,
       "PaperTranslation": "LUKU",
       "IsEditingTranslation": false,
-      "Hash": "ba1241fb8c2610e5d5483834202a0d79"
+      "Hash": "ba1241fb8c2610e5d5483834202a0d79",
+      "RepositoryName": ""
     },
     {
       "LanguageID": 44,
@@ -94,7 +99,8 @@
       "EndingYear": 2014,
       "PaperTranslation": "Fascicule",
       "IsEditingTranslation": false,
-      "Hash": "8b5cd8fc312b3a8cfa4e6aa541648c4b"
+      "Hash": "8b5cd8fc312b3a8cfa4e6aa541648c4b",
+      "RepositoryName": ""
     },
     {
       "LanguageID": 25,
@@ -110,7 +116,8 @@
       "EndingYear": 2013,
       "PaperTranslation": "Schrift",
       "IsEditingTranslation": false,
-      "Hash": "7d09c00c39e2504f305879f4b496ffef"
+      "Hash": "7d09c00c39e2504f305879f4b496ffef",
+      "RepositoryName": ""
     },
     {
       "LanguageID": 108,
@@ -126,7 +133,8 @@
       "EndingYear": 2013,
       "PaperTranslation": "\u0395\u0393\u0393\u03A1\u0391\u03A6\u039F",
       "IsEditingTranslation": false,
-      "Hash": "7de0ec44ef43bd6f3d5e45c50643410f"
+      "Hash": "7de0ec44ef43bd6f3d5e45c50643410f",
+      "RepositoryName": ""
     },
     {
       "LanguageID": 53,
@@ -142,7 +150,8 @@
       "EndingYear": 2013,
       "PaperTranslation": "\u00EDr\u00E1s",
       "IsEditingTranslation": false,
-      "Hash": "28a43460e54415e39dfe3a5d1bcdb1fd"
+      "Hash": "28a43460e54415e39dfe3a5d1bcdb1fd",
+      "RepositoryName": ""
     },
     {
       "LanguageID": 29,
@@ -158,7 +167,8 @@
       "EndingYear": 2013,
       "PaperTranslation": "Fascicolo",
       "IsEditingTranslation": false,
-      "Hash": "d2d2aed6d6999a88f1a1183a5b4671ef"
+      "Hash": "d2d2aed6d6999a88f1a1183a5b4671ef",
+      "RepositoryName": ""
     },
     {
       "LanguageID": 83,
@@ -174,7 +184,8 @@
       "EndingYear": 2013,
       "PaperTranslation": "\uBB38\uC11C",
       "IsEditingTranslation": false,
-      "Hash": "4845b6fb4deca87e02461b7b3b38ae3f"
+      "Hash": "4845b6fb4deca87e02461b7b3b38ae3f",
+      "RepositoryName": ""
     },
     {
       "LanguageID": 30,
@@ -190,7 +201,8 @@
       "EndingYear": 2013,
       "PaperTranslation": "Dokumentas",
       "IsEditingTranslation": false,
-      "Hash": "05f3643eeb68bea97545fdad32b8b112"
+      "Hash": "05f3643eeb68bea97545fdad32b8b112",
+      "RepositoryName": ""
     },
     {
       "LanguageID": 37,
@@ -206,7 +218,8 @@
       "EndingYear": 2013,
       "PaperTranslation": "Przekaz",
       "IsEditingTranslation": false,
-      "Hash": "0452cfde4a64dacc114e71e9c618fec1"
+      "Hash": "0452cfde4a64dacc114e71e9c618fec1",
+      "RepositoryName": ""
     },
     {
       "LanguageID": 34,
@@ -222,7 +235,8 @@
       "EndingYear": 2013,
       "PaperTranslation": "Documento",
       "IsEditingTranslation": false,
-      "Hash": "0598bd33f50065af76cbce4f89ac6362"
+      "Hash": "0598bd33f50065af76cbce4f89ac6362",
+      "RepositoryName": ""
     },
     {
       "LanguageID": 2,
@@ -234,11 +248,12 @@
       "CultureID": 1046,
       "UseBold": false,
       "RightToLeft": false,
-      "StartingYear": 2013,
-      "EndingYear": 2013,
+      "StartingYear": 2006,
+      "EndingYear": 2023,
       "PaperTranslation": "Documento",
       "IsEditingTranslation": true,
-      "Hash": "f713b26bb55bd116ff1a67c25f19ed32"
+      "Hash": "f713b26bb55bd116ff1a67c25f19ed32",
+      "RepositoryName": "PtAlternative"
     },
     {
       "LanguageID": 109,
@@ -254,7 +269,8 @@
       "EndingYear": 2013,
       "PaperTranslation": "Capitolul",
       "IsEditingTranslation": false,
-      "Hash": "cf1171fa5145836357ae7889365c8676"
+      "Hash": "cf1171fa5145836357ae7889365c8676",
+      "RepositoryName": ""
     },
     {
       "LanguageID": 32,
@@ -270,7 +286,8 @@
       "EndingYear": 2013,
       "PaperTranslation": "\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442",
       "IsEditingTranslation": false,
-      "Hash": "f4bc3ed9efc8864c5c5e651ea9ab9dd8"
+      "Hash": "f4bc3ed9efc8864c5c5e651ea9ab9dd8",
+      "RepositoryName": ""
     },
     {
       "LanguageID": 143,
@@ -286,7 +303,8 @@
       "EndingYear": 2013,
       "PaperTranslation": "Documento",
       "IsEditingTranslation": false,
-      "Hash": "8a45d812bf7a7e60933b003da39dcc96"
+      "Hash": "8a45d812bf7a7e60933b003da39dcc96",
+      "RepositoryName": ""
     },
     {
       "LanguageID": 33,
@@ -302,7 +320,8 @@
       "EndingYear": 2013,
       "PaperTranslation": "Documento",
       "IsEditingTranslation": false,
-      "Hash": "1bde150d0c208fb0e6c7dc25e04f27f9"
+      "Hash": "1bde150d0c208fb0e6c7dc25e04f27f9",
+      "RepositoryName": ""
     },
     {
       "LanguageID": 144,
@@ -318,7 +337,8 @@
       "EndingYear": 2022,
       "PaperTranslation": "Documento",
       "IsEditingTranslation": false,
-      "Hash": "e9e3ce2627178d84b3c25252c5e6808e"
+      "Hash": "e9e3ce2627178d84b3c25252c5e6808e",
+      "RepositoryName": ""
     },
     {
       "LanguageID": 7,
@@ -334,7 +354,8 @@
       "EndingYear": 2013,
       "PaperTranslation": "Documento",
       "IsEditingTranslation": false,
-      "Hash": "eb04e4e031b05f7a0c6af4314f08f51f"
+      "Hash": "eb04e4e031b05f7a0c6af4314f08f51f",
+      "RepositoryName": ""
     },
     {
       "LanguageID": 68,
@@ -350,7 +371,8 @@
       "EndingYear": 2013,
       "PaperTranslation": "Kapitel",
       "IsEditingTranslation": false,
-      "Hash": "78288f3361b8dc401b728f521d62a30d"
+      "Hash": "78288f3361b8dc401b728f521d62a30d",
+      "RepositoryName": ""
     }
   ]
 }
