@@ -225,6 +225,22 @@
       "Hash": "0598bd33f50065af76cbce4f89ac6362"
     },
     {
+      "LanguageID": 2,
+      "Description": "Portuguese Alternative",
+      "Version": 1,
+      "TIN": "",
+      "TUB": "O livro de Ur\u00E2ntia",
+      "TextButton": "pt-br",
+      "CultureID": 1046,
+      "UseBold": false,
+      "RightToLeft": false,
+      "StartingYear": 2006,
+      "EndingYear": 2023,
+      "PaperTranslation": "Documento",
+      "IsEditingTranslation": true,
+      "Hash": "17b4586ad04a185b6a2faf07fec83888"
+    },
+    {
       "LanguageID": 109,
       "Description": "Romanian 2004",
       "Version": 1,
@@ -335,22 +351,6 @@
       "PaperTranslation": "Kapitel",
       "IsEditingTranslation": false,
       "Hash": "78288f3361b8dc401b728f521d62a30d"
-    },
-    {
-      "LanguageID": 2,
-      "Description": "Portuguese Alternative",
-      "Version": 1,
-      "TIN": "",
-      "TUB": "O livro de Ur\u00E2ntia",
-      "TextButton": "pt-br",
-      "CultureID": 1046,
-      "UseBold": false,
-      "RightToLeft": false,
-      "StartingYear": 2006,
-      "EndingYear": 2023,
-      "PaperTranslation": "Documento",
-      "IsEditingTranslation": true,
-      "Hash": ""
     }
   ]
 }
