@@ -19,7 +19,7 @@ def calculate_sha256(file_path):
 
 def main():
     # Files to process
-    files_to_hash = ["TR000.zip", "TR002.zip"]
+    files_to_hash = ["FormatTable.gz", "TR000.zip", "TR002.zip"]
     output_filename = "rodam_available.json"
     
     results = {}
