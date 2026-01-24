@@ -1,0 +1,2 @@
+semantic/model/tub_modelo.index filter=lfs diff=lfs merge=lfs -text
+semantic/model/tub_modelo_meta.pkl filter=lfs diff=lfs merge=lfs -text
